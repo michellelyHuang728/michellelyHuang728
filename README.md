@@ -17,23 +17,24 @@ Here are some ideas to get you started:
 # Hi there! (｡•̀ᴗ-)✧
 
 I'm Michelle ✨
-🎓 MSCS @ UC San Diego
-💻 Interested in Software Engineering, AI, and Machine Learning
-🌱 Currently learning distributed systems, LLMs, and cloud technologies
-☕ Powered by matcha, ramen, and occasional panic
+
+🎓 MSCS @ UC San Diego  
+💻 Interested in Software Engineering, AI, and Machine Learning  
+🌱 Currently learning distributed systems, LLMs, and cloud technologies  
+☕ Powered by music, food, and occasional panic
 
 ( •̀ ω •́ )✧ I enjoy building things, learning new technologies, and turning random ideas into projects.
 
-### What I'm up to
+## What I'm up to
 
-* 🔭 Exploring AI/LLM applications
-* 📚 Grinding LeetCode and system design
-* 🚀 Looking for SWE / ML opportunities
+- 🔭 Exploring AI/LLM applications
+- 📚 Grinding LeetCode and system design
+- 🚀 Looking for SWE / ML opportunities
 
-### Fun Facts
+## Fun Facts
 
-* 🐹 Professional procrastinator turned productivity enjoyer
-* 🎮 Anime, rhythm games, and cosplay enthusiast
-* ✨ Believer that every bug is just a misunderstood feature
+- 🐹 Professional procrastinator turned productivity enjoyer
+- 🎮 Anime, rhythm games, and cosplay enthusiast
+- ✨ Believer that every bug is just a misunderstood feature
 
 Thanks for stopping by! (´｡• ᵕ •｡`) ♡
