@@ -92,7 +92,7 @@ I'm Michelle ✨
 <td>🧠🔒 Developed large-scale LLM evaluation infrastructure in Python using LiteLLM, orchestrating benchmark execution and automated scoring across Gemini and GPT-based models. Designed prompt-engineering interventions to evaluate model safety behaviors including shutdown tampering, strategic misrepresentation, alignment-faking, and model exfiltration. Executed and analyzed 100+ benchmark configurations spanning multiple peer-interaction settings, producing reproducible evaluation results for AI safety research.</td>
 </tr>
 <tr>
-<td><p align="center"><a href="https://gitlab.nrp-nautilus.io/michellehly728"><img alt="qualcomm_image" src="serious-game.png" width="200"/><br>Biological Simulation Engine</a></p></td>
+<td><p align="center"><a href="https://gitlab.nrp-nautilus.io/michellehly728"><img alt="qualcomm_image" src="phospholipid-bilayer.png" width="200"/><br>Biological Simulation Engine</a></p></td>
 <td>🧬🎮 Architected a modular simulation engine in C++ and Unreal Engine 5 for biological process visualization at Qualcomm Institute. Decomposed complex systems into independently testable subsystems, reducing integration effort across a 3-person engineering team. Optimized rendering performance to sustain 90 FPS while reducing GPU memory overhead by ~25%.</td>
 </tr>
 <tr>
