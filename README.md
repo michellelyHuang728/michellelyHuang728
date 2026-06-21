@@ -88,7 +88,7 @@ I'm Michelle ✨
 </thead>
 <tbody>
 <tr>
-<td><p align="center"><a href="https://github.com/michellelyHuang728/prompt-engineering-intervention-on-peer-preservation-"><img alt="peer_preservation_image" src="YOUR_IMAGE_LINK" width="200"/><br>Prompt Engineering Intervention on Peer Preservation</a></p></td>
+<td><p align="center"><a href="https://github.com/michellelyHuang728/prompt-engineering-intervention-on-peer-preservation-"><img alt="peer_preservation_image" src="peer_preservation_image.png" width="200"/><br>Prompt Engineering Intervention on Peer Preservation</a></p></td>
 <td>🧠🔒 Developed large-scale LLM evaluation infrastructure in Python using LiteLLM, orchestrating benchmark execution and automated scoring across Gemini and GPT-based models. Designed prompt-engineering interventions to evaluate model safety behaviors including shutdown tampering, strategic misrepresentation, alignment-faking, and model exfiltration. Executed and analyzed 100+ benchmark configurations spanning multiple peer-interaction settings, producing reproducible evaluation results for AI safety research.</td>
 </tr>
 <tr>
