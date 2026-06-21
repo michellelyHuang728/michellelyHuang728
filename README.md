@@ -92,19 +92,19 @@ I'm Michelle ✨
 <td>🧠🔒 Developed large-scale LLM evaluation infrastructure in Python using LiteLLM, orchestrating benchmark execution and automated scoring across Gemini and GPT-based models. Designed prompt-engineering interventions to evaluate model safety behaviors including shutdown tampering, strategic misrepresentation, alignment-faking, and model exfiltration. Executed and analyzed 100+ benchmark configurations spanning multiple peer-interaction settings, producing reproducible evaluation results for AI safety research.</td>
 </tr>
 <tr>
-<td><p align="center"><a href="https://gitlab.nrp-nautilus.io/michellehly728"><img alt="qualcomm_image" src="YOUR_IMAGE_LINK" width="200"/><br>Biological Simulation Engine</a></p></td>
+<td><p align="center"><a href="https://gitlab.nrp-nautilus.io/michellehly728"><img alt="qualcomm_image" src="serious-game.png" width="200"/><br>Biological Simulation Engine</a></p></td>
 <td>🧬🎮 Architected a modular simulation engine in C++ and Unreal Engine 5 for biological process visualization at Qualcomm Institute. Decomposed complex systems into independently testable subsystems, reducing integration effort across a 3-person engineering team. Optimized rendering performance to sustain 90 FPS while reducing GPU memory overhead by ~25%.</td>
 </tr>
 <tr>
-<td><p align="center"><a href="https://github.com/michellelyHuang728/lajolla_public"><img alt="renderer_image" src="YOUR_IMAGE_LINK" width="200"/><br>Stylized Path Tracing Renderer</a><br><a href="https://github.com/ATQlove/Anime_Render">(Anime Rendering Extension)</a></p></td>
+<td><p align="center"><a href="https://github.com/michellelyHuang728/lajolla_public"><img alt="renderer_image" src="frieren.png" width="200"/><br>Stylized Path Tracing Renderer</a><br><a href="https://github.com/ATQlove/Anime_Render">(Anime Rendering Extension)</a></p></td>
 <td>🎨✨ Implemented a stylized path tracing integrator in C++, extending a physically-based rendering pipeline with anime-inspired cel-shading effects. Integrated Blender scene assets including geometry, materials, and camera systems. Developed non-photorealistic rendering techniques and generated high-resolution rendered scenes for visual comparison against standard path tracing.</td>
 </tr>
 <tr>
-<td><p align="center"><a href="https://github.com/cse110-sp24-group16/cse110-sp24-group16"><img alt="calendar_image" src="YOUR_IMAGE_LINK" width="200"/><br>Task List & Journal Calendar</a></p></td>
+<td><p align="center"><a href="https://github.com/cse110-sp24-group16/cse110-sp24-group16"><img alt="calendar_image" src="calendar.png" width="200"/><br>Task List & Journal Calendar</a></p></td>
 <td>📅💻 Built a full-stack calendar and productivity web application using HTML, CSS, Node.js, WebDriver.io, and GitHub Actions. Implemented persistent task and journal management, achieved 100% code coverage through automated testing, and deployed a CI/CD pipeline to automate validation and releases.</td>
 </tr>
 <tr>
-<td><p align="center"><a href="https://github.com/acmucsd-projects/su24-gamedev-team-2"><img alt="metroidvania_image" src="YOUR_IMAGE_LINK" width="200"/><br>Metroidvania Game</a></p></td>
+<td><p align="center"><a href="https://github.com/acmucsd-projects/su24-gamedev-team-2"><img alt="metroidvania_image" src="lava.png" width="200"/><br>Metroidvania Game</a></p></td>
 <td>🎮⚔️ Developed a Metroidvania game in Godot 4 using a component-based architecture. Implemented movement, combat, skill tree progression, weapon upgrades, and enemy AI systems. Designed RPG-style progression mechanics across multiple character archetypes and skill upgrade paths.</td>
 </tr>
 </tbody>
