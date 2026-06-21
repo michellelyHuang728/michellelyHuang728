@@ -35,7 +35,7 @@ I'm Michelle ✨
 - 🎮 Anime, rhythm games, and cosplay enthusiast
 - ✨ Believer that every bug is just a misunderstood feature
 
-<h3>Languages & Technologies</h3>
+## Languages & Technologies
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=openjdk&logoColor=white" />
