@@ -74,4 +74,10 @@ I'm Michelle ✨
 </p>
 
 
+| Project | Description |
+|----------|------------|
+| [Peer Preservation](repo-link) | Research on AI self-preservation and peer-preservation behaviors |
+| [K12 Zone](repo-link) | Educational platform engineering internship |
+| [Calendar App](repo-link) | Electron-based scheduling application |
+
 Thanks for stopping by! (´｡• ᵕ •｡`) ♡
