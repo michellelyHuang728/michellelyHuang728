@@ -11,29 +11,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# Hi there! (｡•̀ᴗ-)✧
-
-I'm Michelle ✨
-
-🎓 MSCS @ UC San Diego  
-💻 Interested in Software Engineering, AI, and Machine Learning  
-🌱 Currently learning distributed systems, LLMs, and cloud technologies  
-☕ Powered by music, food, and occasional panic
-
-( •̀ ω •́ )✧ I enjoy building things, learning new technologies, and turning random ideas into projects.
-
-## What I'm up to
-
-- 🔭 Exploring AI/LLM applications
-- 📚 Grinding LeetCode and system design
-- 🚀 Looking for SWE / ML opportunities
 
 ## Fun Facts
 
 - 🐹 Professional procrastinator turned productivity enjoyer
 - 🎮 Anime, rhythm games, and cosplay enthusiast
 - ✨ Believer that every bug is just a misunderstood feature
+
+## What I'm up to
+
+- 🔭 Exploring AI/LLM applications
+- 📚 Grinding LeetCode and system design
+- 🚀 Looking for SWE / ML opportunities
+-->
+# Hi there! (｡•̀ᴗ-)✧
+
+I'm Michelle ✨
+
+🎓 MSCS @ UC San Diego  
+🌏 Originally from Shanghai, China, currently studying in California, United States
+💻 Interested in Software Engineering, AI, and Machine Learning  
+🌱 Currently learning distributed systems, LLMs, and cloud technologies  
+☕ Powered by music, food, and occasional panic
+🔭 Exploring AI/LLM applications
+📚 Grinding LeetCode and system design
+🚀 Looking for SWE / ML opportunities
+
+( •̀ ω •́ )✧ I enjoy building things, learning new technologies, and turning random ideas into projects.
 
 ## Languages & Technologies
 
