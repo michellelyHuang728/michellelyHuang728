@@ -39,7 +39,7 @@ I'm Michelle ✨
 
 ( •̀ ω •́ )✧ I enjoy building things, learning new technologies, and turning random ideas into projects.
 
-## Languages & Technologies
+<h3>Languages & Technologies (╯°□°）╯︵ ┻━┻ </h3>
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=openjdk&logoColor=white" />
@@ -78,7 +78,7 @@ I'm Michelle ✨
 </p>
 
 
-<h3>Projects</h3>
+<h3>Projects (￢‿￢ )</h3>
 <table>
 <thead align="center">
 <tr>
@@ -110,4 +110,11 @@ I'm Michelle ✨
 </tbody>
 </table>
 
-Thanks for stopping by! (´｡• ᵕ •｡`) ♡
+<h3>Where to find me? ʕっ•ᴥ•ʔっʕっ•ᴥ•ʔっʕっ•ᴥ•ʔっʕっ•ᴥ•ʔっʕっ•ᴥ•ʔっ</h3>
+<p>
+<a href="(https://github.com/michellelyHuang728" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/yujia-wu-981057262/](https://www.linkedin.com/in/leyi-huang-michelle/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
+<h3> Thanks for stopping by! (´｡• ᵕ •｡`) ♡ </h3>
